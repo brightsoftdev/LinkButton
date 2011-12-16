@@ -3,4 +3,4 @@ LinkButton
 
 Clickable text buttons similar to iPad App Store's.
 
-![Preview](https://github.com/raymondjavaxx/LinkButton/preview.png)
+![Preview](https://github.com/raymondjavaxx/LinkButton/raw/master/preview.png)
